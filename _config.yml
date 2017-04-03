@@ -24,6 +24,7 @@ url: "https://jan-martinek.github.io/learn-jekyll" # the base hostname & protoco
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 gems:
   - jekyll-feed
 exclude:
